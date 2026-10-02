@@ -1,0 +1,11 @@
+Asset_ID,Asset_Name,Asset_Type,Data_Classification,Business_Criticality,Owner
+A001,Employee Laptops,Hardware,Confidential,High,IT Department
+A002,Microsoft 365,Cloud Service,Confidential,High,IT Department
+A003,Patient Records,Data,Restricted,Critical,Operations
+A004,Employee Records,Data,Confidential,High,Human Resources
+A005,Corporate Email,Service,Confidential,High,IT Department
+A006,Internal Network,Network,Internal,Critical,IT Department
+A007,Cloud File Storage,Cloud Service,Confidential,High,IT Department
+A008,Wireless Network,Network,Internal,Medium,IT Department
+A009,Backup System,System,Restricted,Critical,IT Department
+A010,User Accounts,Identity,Confidential,Critical,IT Department

@@ -1,0 +1,9 @@
+Function,Security_Area,Current_State,Desired_State,Gap,Recommended_Action
+Govern,Security Policies,Partial,Implemented,Policies are incomplete,Create and approve formal security policies
+Identify,Asset Management,Partial,Implemented,No centralized asset inventory,Maintain and review an asset inventory
+Protect,Access Control,Partial,Implemented,MFA is not required for all accounts,Require MFA and role-based access control
+Protect,Security Awareness,Partial,Implemented,Training is inconsistent,Provide annual security awareness and phishing training
+Protect,Data Security,Partial,Implemented,Sensitive data protections are inconsistent,Implement encryption and data handling requirements
+Detect,Security Monitoring,Limited,Implemented,Security events are not centrally monitored,Implement centralized logging and alerting
+Respond,Incident Response,Limited,Implemented,No formal incident response process,Create and test an incident response plan
+Recover,Backup and Recovery,Partial,Implemented,Backups are not regularly tested,Test backups and recovery procedures

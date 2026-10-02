@@ -1,0 +1,7 @@
+Risk_ID,Asset,Threat,Vulnerability,Likelihood,Impact,Risk_Score,Risk_Level,Recommended_Control
+
+R001,Corporate Email,Phishing,Employees may respond to malicious emails,4,4,16,High,Security awareness training and email filtering
+R002,User Accounts,Credential Theft,Weak or reused passwords,4,5,20,Critical,Require MFA and strong password controls
+R003,Patient Records,Unauthorized Access,Excessive user permissions,3,5,15,High,Implement role-based access control
+R004,Employee Laptops,Malware,Endpoints may execute malicious software,3,4,12,High,Deploy endpoint protection and patch management
+R005,Backup System,Ransomware,Backups may be accessible from production systems,3,5,15,High,Maintain isolated and tested backups
